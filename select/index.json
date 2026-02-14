@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "花のように",
+  "base_artist": "eill",
+  "createdAt": "2026-02-14T14:34:15.464279Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花のように",
+      "artist": "Younha",
+      "has_synced": true,
+      "path": "select/01_花のように_Younha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花のように",
+      "artist": "The Cabs",
+      "has_synced": true,
+      "path": "select/02_花のように_The_Cabs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花のように",
+      "artist": "angela",
+      "has_synced": true,
+      "path": "select/03_花のように_angela.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花のように (off vocal version)",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/04_花のように_(off_vocal_version)_angela.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花のように",
+      "artist": "Anna",
+      "has_synced": true,
+      "path": "select/05_花のように_Anna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花のように 鳥のように",
+      "artist": "桂銀淑",
+      "has_synced": false,
+      "path": "select/06_花のように_鳥のように_桂銀淑.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "花のように",
+      "artist": "Takako Matsu",
+      "has_synced": false,
+      "path": "select/07_花のように_Takako_Matsu.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "花のように (Instrumental)",
+      "artist": "윤하 (Younha)",
+      "has_synced": false,
+      "path": "select/08_花のように_(Instrumental)_윤하_(Younha).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "花のように",
+      "artist": "YURiCa/花たん",
+      "has_synced": true,
+      "path": "select/09_花のように_YURiCa_花たん.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "花のように",
+      "artist": "花たん",
+      "has_synced": true,
+      "path": "select/10_花のように_花たん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花のように",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_花のように_eill.txt"
+    }
+  ]
+}
